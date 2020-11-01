@@ -1,2 +1,2 @@
-# Instrumental-Vocal-Music-Separation
+# Instrumental Vocal Music Separation
 Separating the instrumentals of a song using convolutional neural networks
